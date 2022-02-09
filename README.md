@@ -1,4 +1,4 @@
-# Data Mining and Visualization Project
+# Data Mining Project
 ## Introduction
 The dataset in this project is scraped from Kickstarter, which is a popular crowdfunding platform. This project aimed to develop a classification model and a clustering model for Kickstarter, so that it can group and predict the status of the incoming project based on their features provided to Kickstarter before launch. In this report, I will first discuss the data preprocessing and feature selections for the Kickstarter dataset, following by the methodologies and rational for each model. I will also discuss the business insights I mined from the dataset using the models I build. 
 ## Data Preprocessing:
